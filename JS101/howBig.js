@@ -9,4 +9,4 @@ let areaMeters = (length * width)
 let areaSquareFeet = areaMeters * 10.7639
 
 
-console.log(`the area of the room is ${areaMeters.toFixed()} square meters (${areaSquareFeet.toFixed()} square feet)`);
+console.log(`the area of the room is ${areaMeters.toFixed(2)} square meters (${areaSquareFeet.toFixed(2)} square feet)`);
